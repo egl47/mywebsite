@@ -1,2 +1,2 @@
 # Welcome to the GitHub repo for my personal website!
-To view the site, go to [everettgriffin.com](https://everettgriffin.com)
+To view the site, go to [everettgriffin.com](everettgriffin.com)
